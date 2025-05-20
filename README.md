@@ -1,6 +1,6 @@
 ### Name :Rajeshwari.M
 ### Reg no: 212224040262
-# Exp.no: 10   IMPLEMENTATION OF SARIMA MODEL
+### Exp.no: 10   IMPLEMENTATION OF SARIMA MODEL
 ### Date: 20/05/25
 
 ### AIM:
